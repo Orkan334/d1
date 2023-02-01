@@ -1,0 +1,12 @@
+namespace YourNamespace
+{
+    class YourClass
+    {
+     int a = 1
+     for (a = 0; a < 5; a++) 
+      {
+        Console.Write(a)
+        
+      }  
+    }
+}
